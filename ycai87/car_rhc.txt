@@ -1,0 +1,95 @@
+results for iteration: 10---------------------------
+
+Train Results for RHC: 
+Correctly classified 407.0 instances.
+Incorrectly classified 803.0 instances.
+Percent correctly classified: 33.636%
+Training time: 0.102 seconds
+Testing time: 0.111 seconds
+
+Test Results for RHC: 
+Correctly classified 170.0 instances.
+Incorrectly classified 348.0 instances.
+Percent correctly classified: 32.819%
+Training time: 0.102 seconds
+Testing time: 0.017 seconds
+
+results for iteration: 100---------------------------
+
+Train Results for RHC: 
+Correctly classified 841.0 instances.
+Incorrectly classified 369.0 instances.
+Percent correctly classified: 69.504%
+Training time: 0.371 seconds
+Testing time: 0.077 seconds
+
+Test Results for RHC: 
+Correctly classified 372.0 instances.
+Incorrectly classified 146.0 instances.
+Percent correctly classified: 71.815%
+Training time: 0.371 seconds
+Testing time: 0.009 seconds
+
+results for iteration: 500---------------------------
+
+Train Results for RHC: 
+Correctly classified 989.0 instances.
+Incorrectly classified 221.0 instances.
+Percent correctly classified: 81.736%
+Training time: 1.544 seconds
+Testing time: 0.031 seconds
+
+Test Results for RHC: 
+Correctly classified 431.0 instances.
+Incorrectly classified 87.0 instances.
+Percent correctly classified: 83.205%
+Training time: 1.544 seconds
+Testing time: 0.009 seconds
+
+results for iteration: 1000---------------------------
+
+Train Results for RHC: 
+Correctly classified 1079.0 instances.
+Incorrectly classified 131.0 instances.
+Percent correctly classified: 89.174%
+Training time: 2.841 seconds
+Testing time: 0.021 seconds
+
+Test Results for RHC: 
+Correctly classified 465.0 instances.
+Incorrectly classified 53.0 instances.
+Percent correctly classified: 89.768%
+Training time: 2.841 seconds
+Testing time: 0.006 seconds
+
+results for iteration: 2500---------------------------
+
+Train Results for RHC: 
+Correctly classified 1136.0 instances.
+Incorrectly classified 74.0 instances.
+Percent correctly classified: 93.884%
+Training time: 7.075 seconds
+Testing time: 0.013 seconds
+
+Test Results for RHC: 
+Correctly classified 492.0 instances.
+Incorrectly classified 26.0 instances.
+Percent correctly classified: 94.981%
+Training time: 7.075 seconds
+Testing time: 0.006 seconds
+
+results for iteration: 5000---------------------------
+
+Train Results for RHC: 
+Correctly classified 1150.0 instances.
+Incorrectly classified 60.0 instances.
+Percent correctly classified: 95.041%
+Training time: 14.397 seconds
+Testing time: 0.026 seconds
+
+Test Results for RHC: 
+Correctly classified 496.0 instances.
+Incorrectly classified 22.0 instances.
+Percent correctly classified: 95.753%
+Training time: 14.397 seconds
+Testing time: 0.011 seconds

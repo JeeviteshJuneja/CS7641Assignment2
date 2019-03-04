@@ -1,0 +1,515 @@
+results for iteration: 10---------------------------
+
+Train Results for GA:,10,5,2,: 
+Correctly classified 581.0 instances.
+Incorrectly classified 629.0 instances.
+Percent correctly classified: 48.017%
+Training time: 0.234 seconds
+Testing time: 0.126 seconds
+
+Test Results for GA: ,10,5,2,: 
+Correctly classified 272.0 instances.
+Incorrectly classified 246.0 instances.
+Percent correctly classified: 52.510%
+Training time: 0.234 seconds
+Testing time: 0.049 seconds
+
+Train Results for GA:,20,10,5,: 
+Correctly classified 811.0 instances.
+Incorrectly classified 399.0 instances.
+Percent correctly classified: 67.025%
+Training time: 0.280 seconds
+Testing time: 0.069 seconds
+
+Test Results for GA: ,20,10,5,: 
+Correctly classified 357.0 instances.
+Incorrectly classified 161.0 instances.
+Percent correctly classified: 68.919%
+Training time: 0.280 seconds
+Testing time: 0.011 seconds
+
+Train Results for GA:,50,25,10,: 
+Correctly classified 820.0 instances.
+Incorrectly classified 390.0 instances.
+Percent correctly classified: 67.769%
+Training time: 0.611 seconds
+Testing time: 0.015 seconds
+
+Test Results for GA: ,50,25,10,: 
+Correctly classified 361.0 instances.
+Incorrectly classified 157.0 instances.
+Percent correctly classified: 69.691%
+Training time: 0.611 seconds
+Testing time: 0.011 seconds
+
+Train Results for GA:,100,50,10,: 
+Correctly classified 844.0 instances.
+Incorrectly classified 366.0 instances.
+Percent correctly classified: 69.752%
+Training time: 0.923 seconds
+Testing time: 0.016 seconds
+
+Test Results for GA: ,100,50,10,: 
+Correctly classified 376.0 instances.
+Incorrectly classified 142.0 instances.
+Percent correctly classified: 72.587%
+Training time: 0.923 seconds
+Testing time: 0.007 seconds
+
+Train Results for GA:,200,100,20,: 
+Correctly classified 842.0 instances.
+Incorrectly classified 368.0 instances.
+Percent correctly classified: 69.587%
+Training time: 1.949 seconds
+Testing time: 0.016 seconds
+
+Test Results for GA: ,200,100,20,: 
+Correctly classified 375.0 instances.
+Incorrectly classified 143.0 instances.
+Percent correctly classified: 72.394%
+Training time: 1.949 seconds
+Testing time: 0.008 seconds
+
+Train Results for GA:,500,350,50,: 
+Correctly classified 843.0 instances.
+Incorrectly classified 367.0 instances.
+Percent correctly classified: 69.669%
+Training time: 6.409 seconds
+Testing time: 0.010 seconds
+
+Test Results for GA: ,500,350,50,: 
+Correctly classified 367.0 instances.
+Incorrectly classified 151.0 instances.
+Percent correctly classified: 70.849%
+Training time: 6.409 seconds
+Testing time: 0.005 seconds
+
+results for iteration: 100---------------------------
+
+Train Results for GA:,10,5,2,: 
+Correctly classified 843.0 instances.
+Incorrectly classified 367.0 instances.
+Percent correctly classified: 69.669%
+Training time: 0.971 seconds
+Testing time: 0.011 seconds
+
+Test Results for GA: ,10,5,2,: 
+Correctly classified 369.0 instances.
+Incorrectly classified 149.0 instances.
+Percent correctly classified: 71.236%
+Training time: 0.971 seconds
+Testing time: 0.005 seconds
+
+Train Results for GA:,20,10,5,: 
+Correctly classified 817.0 instances.
+Incorrectly classified 393.0 instances.
+Percent correctly classified: 67.521%
+Training time: 1.847 seconds
+Testing time: 0.011 seconds
+
+Test Results for GA: ,20,10,5,: 
+Correctly classified 364.0 instances.
+Incorrectly classified 154.0 instances.
+Percent correctly classified: 70.270%
+Training time: 1.847 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,50,25,10,: 
+Correctly classified 843.0 instances.
+Incorrectly classified 367.0 instances.
+Percent correctly classified: 69.669%
+Training time: 4.194 seconds
+Testing time: 0.010 seconds
+
+Test Results for GA: ,50,25,10,: 
+Correctly classified 367.0 instances.
+Incorrectly classified 151.0 instances.
+Percent correctly classified: 70.849%
+Training time: 4.194 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,100,50,10,: 
+Correctly classified 855.0 instances.
+Incorrectly classified 355.0 instances.
+Percent correctly classified: 70.661%
+Training time: 7.782 seconds
+Testing time: 0.009 seconds
+
+Test Results for GA: ,100,50,10,: 
+Correctly classified 366.0 instances.
+Incorrectly classified 152.0 instances.
+Percent correctly classified: 70.656%
+Training time: 7.782 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,200,100,20,: 
+Correctly classified 856.0 instances.
+Incorrectly classified 354.0 instances.
+Percent correctly classified: 70.744%
+Training time: 15.168 seconds
+Testing time: 0.009 seconds
+
+Test Results for GA: ,200,100,20,: 
+Correctly classified 373.0 instances.
+Incorrectly classified 145.0 instances.
+Percent correctly classified: 72.008%
+Training time: 15.168 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,500,350,50,: 
+Correctly classified 884.0 instances.
+Incorrectly classified 326.0 instances.
+Percent correctly classified: 73.058%
+Training time: 50.903 seconds
+Testing time: 0.010 seconds
+
+Test Results for GA: ,500,350,50,: 
+Correctly classified 387.0 instances.
+Incorrectly classified 131.0 instances.
+Percent correctly classified: 74.710%
+Training time: 50.903 seconds
+Testing time: 0.006 seconds
+
+results for iteration: 500---------------------------
+
+Train Results for GA:,10,5,2,: 
+Correctly classified 696.0 instances.
+Incorrectly classified 514.0 instances.
+Percent correctly classified: 57.521%
+Training time: 4.721 seconds
+Testing time: 0.009 seconds
+
+Test Results for GA: ,10,5,2,: 
+Correctly classified 291.0 instances.
+Incorrectly classified 227.0 instances.
+Percent correctly classified: 56.178%
+Training time: 4.721 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,20,10,5,: 
+Correctly classified 858.0 instances.
+Incorrectly classified 352.0 instances.
+Percent correctly classified: 70.909%
+Training time: 8.974 seconds
+Testing time: 0.009 seconds
+
+Test Results for GA: ,20,10,5,: 
+Correctly classified 377.0 instances.
+Incorrectly classified 141.0 instances.
+Percent correctly classified: 72.780%
+Training time: 8.974 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,50,25,10,: 
+Correctly classified 902.0 instances.
+Incorrectly classified 308.0 instances.
+Percent correctly classified: 74.545%
+Training time: 20.536 seconds
+Testing time: 0.018 seconds
+
+Test Results for GA: ,50,25,10,: 
+Correctly classified 392.0 instances.
+Incorrectly classified 126.0 instances.
+Percent correctly classified: 75.676%
+Training time: 20.536 seconds
+Testing time: 0.008 seconds
+
+Train Results for GA:,100,50,10,: 
+Correctly classified 919.0 instances.
+Incorrectly classified 291.0 instances.
+Percent correctly classified: 75.950%
+Training time: 37.360 seconds
+Testing time: 0.009 seconds
+
+Test Results for GA: ,100,50,10,: 
+Correctly classified 410.0 instances.
+Incorrectly classified 108.0 instances.
+Percent correctly classified: 79.151%
+Training time: 37.360 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,200,100,20,: 
+Correctly classified 944.0 instances.
+Incorrectly classified 266.0 instances.
+Percent correctly classified: 78.017%
+Training time: 74.359 seconds
+Testing time: 0.013 seconds
+
+Test Results for GA: ,200,100,20,: 
+Correctly classified 417.0 instances.
+Incorrectly classified 101.0 instances.
+Percent correctly classified: 80.502%
+Training time: 74.359 seconds
+Testing time: 0.005 seconds
+
+Train Results for GA:,500,350,50,: 
+Correctly classified 959.0 instances.
+Incorrectly classified 251.0 instances.
+Percent correctly classified: 79.256%
+Training time: 246.626 seconds
+Testing time: 0.020 seconds
+
+Test Results for GA: ,500,350,50,: 
+Correctly classified 425.0 instances.
+Incorrectly classified 93.0 instances.
+Percent correctly classified: 82.046%
+Training time: 246.626 seconds
+Testing time: 0.006 seconds
+
+results for iteration: 1000---------------------------
+
+Train Results for GA:,10,5,2,: 
+Correctly classified 743.0 instances.
+Incorrectly classified 467.0 instances.
+Percent correctly classified: 61.405%
+Training time: 9.452 seconds
+Testing time: 0.010 seconds
+
+Test Results for GA: ,10,5,2,: 
+Correctly classified 328.0 instances.
+Incorrectly classified 190.0 instances.
+Percent correctly classified: 63.320%
+Training time: 9.452 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,20,10,5,: 
+Correctly classified 880.0 instances.
+Incorrectly classified 330.0 instances.
+Percent correctly classified: 72.727%
+Training time: 18.485 seconds
+Testing time: 0.010 seconds
+
+Test Results for GA: ,20,10,5,: 
+Correctly classified 385.0 instances.
+Incorrectly classified 133.0 instances.
+Percent correctly classified: 74.324%
+Training time: 18.485 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,50,25,10,: 
+Correctly classified 944.0 instances.
+Incorrectly classified 266.0 instances.
+Percent correctly classified: 78.017%
+Training time: 42.519 seconds
+Testing time: 0.010 seconds
+
+Test Results for GA: ,50,25,10,: 
+Correctly classified 423.0 instances.
+Incorrectly classified 95.0 instances.
+Percent correctly classified: 81.660%
+Training time: 42.519 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,100,50,10,: 
+Correctly classified 934.0 instances.
+Incorrectly classified 276.0 instances.
+Percent correctly classified: 77.190%
+Training time: 76.208 seconds
+Testing time: 0.010 seconds
+
+Test Results for GA: ,100,50,10,: 
+Correctly classified 410.0 instances.
+Incorrectly classified 108.0 instances.
+Percent correctly classified: 79.151%
+Training time: 76.208 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,200,100,20,: 
+Correctly classified 945.0 instances.
+Incorrectly classified 265.0 instances.
+Percent correctly classified: 78.099%
+Training time: 153.677 seconds
+Testing time: 0.011 seconds
+
+Test Results for GA: ,200,100,20,: 
+Correctly classified 415.0 instances.
+Incorrectly classified 103.0 instances.
+Percent correctly classified: 80.116%
+Training time: 153.677 seconds
+Testing time: 0.006 seconds
+
+Train Results for GA:,500,350,50,: 
+Correctly classified 1008.0 instances.
+Incorrectly classified 202.0 instances.
+Percent correctly classified: 83.306%
+Training time: 505.486 seconds
+Testing time: 0.016 seconds
+
+Test Results for GA: ,500,350,50,: 
+Correctly classified 438.0 instances.
+Incorrectly classified 80.0 instances.
+Percent correctly classified: 84.556%
+Training time: 505.486 seconds
+Testing time: 0.007 seconds
+
+results for iteration: 2500---------------------------
+
+Train Results for GA:,10,5,2,: 
+Correctly classified 832.0 instances.
+Incorrectly classified 378.0 instances.
+Percent correctly classified: 68.760%
+Training time: 24.251 seconds
+Testing time: 0.010 seconds
+
+Test Results for GA: ,10,5,2,: 
+Correctly classified 367.0 instances.
+Incorrectly classified 151.0 instances.
+Percent correctly classified: 70.849%
+Training time: 24.251 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,20,10,5,: 
+Correctly classified 875.0 instances.
+Incorrectly classified 335.0 instances.
+Percent correctly classified: 72.314%
+Training time: 46.906 seconds
+Testing time: 0.010 seconds
+
+Test Results for GA: ,20,10,5,: 
+Correctly classified 389.0 instances.
+Incorrectly classified 129.0 instances.
+Percent correctly classified: 75.097%
+Training time: 46.906 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,50,25,10,: 
+Correctly classified 958.0 instances.
+Incorrectly classified 252.0 instances.
+Percent correctly classified: 79.174%
+Training time: 106.368 seconds
+Testing time: 0.011 seconds
+
+Test Results for GA: ,50,25,10,: 
+Correctly classified 427.0 instances.
+Incorrectly classified 91.0 instances.
+Percent correctly classified: 82.432%
+Training time: 106.368 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,100,50,10,: 
+Correctly classified 973.0 instances.
+Incorrectly classified 237.0 instances.
+Percent correctly classified: 80.413%
+Training time: 192.586 seconds
+Testing time: 0.009 seconds
+
+Test Results for GA: ,100,50,10,: 
+Correctly classified 421.0 instances.
+Incorrectly classified 97.0 instances.
+Percent correctly classified: 81.274%
+Training time: 192.586 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,200,100,20,: 
+Correctly classified 997.0 instances.
+Incorrectly classified 213.0 instances.
+Percent correctly classified: 82.397%
+Training time: 381.106 seconds
+Testing time: 0.011 seconds
+
+Test Results for GA: ,200,100,20,: 
+Correctly classified 440.0 instances.
+Incorrectly classified 78.0 instances.
+Percent correctly classified: 84.942%
+Training time: 381.106 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,500,350,50,: 
+Correctly classified 1024.0 instances.
+Incorrectly classified 186.0 instances.
+Percent correctly classified: 84.628%
+Training time: 1269.105 seconds
+Testing time: 0.011 seconds
+
+Test Results for GA: ,500,350,50,: 
+Correctly classified 441.0 instances.
+Incorrectly classified 77.0 instances.
+Percent correctly classified: 85.135%
+Training time: 1269.105 seconds
+Testing time: 0.005 seconds
+
+results for iteration: 5000---------------------------
+
+Train Results for GA:,10,5,2,: 
+Correctly classified 713.0 instances.
+Incorrectly classified 497.0 instances.
+Percent correctly classified: 58.926%
+Training time: 49.005 seconds
+Testing time: 0.009 seconds
+
+Test Results for GA: ,10,5,2,: 
+Correctly classified 327.0 instances.
+Incorrectly classified 191.0 instances.
+Percent correctly classified: 63.127%
+Training time: 49.005 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,20,10,5,: 
+Correctly classified 924.0 instances.
+Incorrectly classified 286.0 instances.
+Percent correctly classified: 76.364%
+Training time: 92.833 seconds
+Testing time: 0.011 seconds
+
+Test Results for GA: ,20,10,5,: 
+Correctly classified 423.0 instances.
+Incorrectly classified 95.0 instances.
+Percent correctly classified: 81.660%
+Training time: 92.833 seconds
+Testing time: 0.005 seconds
+
+Train Results for GA:,50,25,10,: 
+Correctly classified 1007.0 instances.
+Incorrectly classified 203.0 instances.
+Percent correctly classified: 83.223%
+Training time: 215.097 seconds
+Testing time: 0.012 seconds
+
+Test Results for GA: ,50,25,10,: 
+Correctly classified 427.0 instances.
+Incorrectly classified 91.0 instances.
+Percent correctly classified: 82.432%
+Training time: 215.097 seconds
+Testing time: 0.009 seconds
+
+Train Results for GA:,100,50,10,: 
+Correctly classified 1010.0 instances.
+Incorrectly classified 200.0 instances.
+Percent correctly classified: 83.471%
+Training time: 378.784 seconds
+Testing time: 0.014 seconds
+
+Test Results for GA: ,100,50,10,: 
+Correctly classified 446.0 instances.
+Incorrectly classified 72.0 instances.
+Percent correctly classified: 86.100%
+Training time: 378.784 seconds
+Testing time: 0.005 seconds
+
+Train Results for GA:,200,100,20,: 
+Correctly classified 1044.0 instances.
+Incorrectly classified 166.0 instances.
+Percent correctly classified: 86.281%
+Training time: 745.497 seconds
+Testing time: 0.010 seconds
+
+Test Results for GA: ,200,100,20,: 
+Correctly classified 445.0 instances.
+Incorrectly classified 73.0 instances.
+Percent correctly classified: 85.907%
+Training time: 745.497 seconds
+Testing time: 0.004 seconds
+
+Train Results for GA:,500,350,50,: 
+Correctly classified 1130.0 instances.
+Incorrectly classified 80.0 instances.
+Percent correctly classified: 93.388%
+Training time: 2649.095 seconds
+Testing time: 0.016 seconds
+
+Test Results for GA: ,500,350,50,: 
+Correctly classified 487.0 instances.
+Incorrectly classified 31.0 instances.
+Percent correctly classified: 94.015%
+Training time: 2649.095 seconds
+Testing time: 0.006 seconds

@@ -1,0 +1,78 @@
+##############
+this is iteration 10
+rhc average is 6, time average is 2.6671109999999997E-4
+sa average is 5, time average is 7.835539999999999E-5
+ga average is 75, time average is 0.0047947979000000016
+mimic average is 82, time average is 0.0657796152
+##############
+this is iteration 100
+rhc average is 14, time average is 5.155570000000001E-5
+sa average is 5, time average is 5.76445E-5
+ga average is 79, time average is 0.011252617199999999
+mimic average is 91, time average is 0.22288087869999998
+##############
+this is iteration 500
+rhc average is 44, time average is 1.505777E-4
+sa average is 73, time average is 2.282222E-4
+ga average is 83, time average is 0.04035607100000001
+mimic average is 102, time average is 0.9618748169
+##############
+this is iteration 1000
+rhc average is 60, time average is 2.375553E-4
+sa average is 90, time average is 3.90133E-4
+ga average is 87, time average is 0.0759157881
+mimic average is 104, time average is 1.8970701347999999
+##############
+this is iteration 2500
+rhc average is 84, time average is 5.538222E-4
+sa average is 104, time average is 0.0010854220000000002
+ga average is 96, time average is 0.1819125415
+mimic average is 110, time average is 4.6819894746
+##############
+this is iteration 5000
+rhc average is 82, time average is 9.792881999999999E-4
+sa average is 112, time average is 0.0023056879
+ga average is 98, time average is 0.36353250510000007
+mimic average is 113, time average is 9.377642276700001
+##############
+this is iteration 8000
+rhc average is 84, time average is 0.0016925323999999998
+sa average is 113, time average is 0.0053013309
+ga average is 101, time average is 0.6094448404
+mimic average is 113, time average is 15.7856932951
+##############
+this is iteration 10000
+rhc average is 77, time average is 0.0023002655
+sa average is 113, time average is 0.007191730199999999
+ga average is 102, time average is 0.7785874318999999
+mimic average is 112, time average is 20.4591442403
+##############
+this is cooling 0.05
+mimic average is 99, time average is 0.0062938641
+##############
+this is cooling 0.15
+mimic average is 104, time average is 0.007804396599999999
+##############
+this is cooling 0.25
+mimic average is 97, time average is 0.007584041099999999
+##############
+this is cooling 0.35
+mimic average is 104, time average is 0.0068626637
+##############
+this is cooling 0.45
+mimic average is 105, time average is 0.006628575
+##############
+this is cooling 0.55
+mimic average is 112, time average is 0.004007642800000001
+##############
+this is cooling 0.65
+mimic average is 112, time average is 0.0038773314999999997
+##############
+this is cooling 0.75
+mimic average is 113, time average is 0.003202354
+##############
+this is cooling 0.85
+mimic average is 112, time average is 0.0026763097999999994
+##############
+this is cooling 0.95
+mimic average is 112, time average is 0.0031427986000000007

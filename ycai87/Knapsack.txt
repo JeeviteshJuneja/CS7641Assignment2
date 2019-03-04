@@ -1,0 +1,66 @@
+##############
+this is iteration 10
+rhc average is 2230, time average is 2.1133330000000007E-4
+sa average is 2094, time average is 6.24888E-5
+ga average is 2914, time average is 0.004498887
+mimic average is 3500, time average is 0.0455492686
+##############
+this is iteration 100
+rhc average is 3086, time average is 4.2444600000000004E-5
+sa average is 1939, time average is 4.05778E-5
+ga average is 3519, time average is 0.011293861700000001
+mimic average is 3706, time average is 0.1677314809
+##############
+this is iteration 500
+rhc average is 3003, time average is 1.0097749999999999E-4
+sa average is 2842, time average is 1.1906669999999998E-4
+ga average is 3288, time average is 0.049859978000000006
+mimic average is 3415, time average is 0.6510477107000001
+##############
+this is iteration 1000
+rhc average is 3031, time average is 1.242667E-4
+sa average is 3140, time average is 3.0831079999999996E-4
+ga average is 3518, time average is 0.09958635560000001
+mimic average is 3585, time average is 1.2990350669
+##############
+this is iteration 2500
+rhc average is 3244, time average is 3.1044419999999996E-4
+sa average is 3278, time average is 9.514218000000001E-4
+ga average is 3614, time average is 0.25153011059999997
+mimic average is 3691, time average is 3.2648181490999995
+##############
+this is iteration 5000
+rhc average is 3380, time average is 9.611105E-4
+sa average is 3318, time average is 0.0022338213
+ga average is 3697, time average is 0.5943881803
+mimic average is 3780, time average is 7.668779880600001
+##############
+this is sample 10
+mimic average is 3224, time average is 3.058175441
+##############
+this is sample 20
+mimic average is 3691, time average is 3.2875369831
+##############
+this is sample 40
+mimic average is 3635, time average is 3.9119712393000006
+##############
+this is sample 80
+mimic average is 3523, time average is 5.882475874400001
+##############
+this is sample 160
+mimic average is 3686, time average is 9.842211803599998
+##############
+this is sample 200
+mimic average is 3732, time average is 11.7215075015
+##############
+this is sample 200
+mimic average is 3828, time average is 7.098400933799999
+##############
+this is sample 200
+mimic average is 3827, time average is 7.5659330375
+##############
+this is sample 200
+mimic average is 3944, time average is 8.947688245400002
+##############
+this is sample 200
+mimic average is 3881, time average is 13.505369242099999

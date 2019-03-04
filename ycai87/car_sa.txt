@@ -1,0 +1,767 @@
+results for iteration: 10---------------------------
+
+Train Results for SA:0.15: 
+Correctly classified 174.0 instances.
+Incorrectly classified 1036.0 instances.
+Percent correctly classified: 14.380%
+Training time: 0.088 seconds
+Testing time: 0.149 seconds
+
+Test Results for SA: 0.15: 
+Correctly classified 74.0 instances.
+Incorrectly classified 444.0 instances.
+Percent correctly classified: 14.286%
+Training time: 0.088 seconds
+Testing time: 0.015 seconds
+
+Train Results for SA:0.25: 
+Correctly classified 109.0 instances.
+Incorrectly classified 1101.0 instances.
+Percent correctly classified: 9.008%
+Training time: 0.071 seconds
+Testing time: 0.049 seconds
+
+Test Results for SA: 0.25: 
+Correctly classified 51.0 instances.
+Incorrectly classified 467.0 instances.
+Percent correctly classified: 9.846%
+Training time: 0.071 seconds
+Testing time: 0.032 seconds
+
+Train Results for SA:0.35: 
+Correctly classified 361.0 instances.
+Incorrectly classified 849.0 instances.
+Percent correctly classified: 29.835%
+Training time: 0.080 seconds
+Testing time: 0.018 seconds
+
+Test Results for SA: 0.35: 
+Correctly classified 172.0 instances.
+Incorrectly classified 346.0 instances.
+Percent correctly classified: 33.205%
+Training time: 0.080 seconds
+Testing time: 0.010 seconds
+
+Train Results for SA:0.45: 
+Correctly classified 281.0 instances.
+Incorrectly classified 929.0 instances.
+Percent correctly classified: 23.223%
+Training time: 0.037 seconds
+Testing time: 0.018 seconds
+
+Test Results for SA: 0.45: 
+Correctly classified 123.0 instances.
+Incorrectly classified 395.0 instances.
+Percent correctly classified: 23.745%
+Training time: 0.037 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.55: 
+Correctly classified 460.0 instances.
+Incorrectly classified 750.0 instances.
+Percent correctly classified: 38.017%
+Training time: 0.036 seconds
+Testing time: 0.015 seconds
+
+Test Results for SA: 0.55: 
+Correctly classified 205.0 instances.
+Incorrectly classified 313.0 instances.
+Percent correctly classified: 39.575%
+Training time: 0.036 seconds
+Testing time: 0.013 seconds
+
+Train Results for SA:0.65: 
+Correctly classified 238.0 instances.
+Incorrectly classified 972.0 instances.
+Percent correctly classified: 19.669%
+Training time: 0.041 seconds
+Testing time: 0.015 seconds
+
+Test Results for SA: 0.65: 
+Correctly classified 109.0 instances.
+Incorrectly classified 409.0 instances.
+Percent correctly classified: 21.042%
+Training time: 0.041 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.75: 
+Correctly classified 130.0 instances.
+Incorrectly classified 1080.0 instances.
+Percent correctly classified: 10.744%
+Training time: 0.032 seconds
+Testing time: 0.015 seconds
+
+Test Results for SA: 0.75: 
+Correctly classified 40.0 instances.
+Incorrectly classified 478.0 instances.
+Percent correctly classified: 7.722%
+Training time: 0.032 seconds
+Testing time: 0.016 seconds
+
+Train Results for SA:0.85: 
+Correctly classified 502.0 instances.
+Incorrectly classified 708.0 instances.
+Percent correctly classified: 41.488%
+Training time: 0.036 seconds
+Testing time: 0.014 seconds
+
+Test Results for SA: 0.85: 
+Correctly classified 217.0 instances.
+Incorrectly classified 301.0 instances.
+Percent correctly classified: 41.892%
+Training time: 0.036 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.95: 
+Correctly classified 303.0 instances.
+Incorrectly classified 907.0 instances.
+Percent correctly classified: 25.041%
+Training time: 0.077 seconds
+Testing time: 0.017 seconds
+
+Test Results for SA: 0.95: 
+Correctly classified 128.0 instances.
+Incorrectly classified 390.0 instances.
+Percent correctly classified: 24.710%
+Training time: 0.077 seconds
+Testing time: 0.006 seconds
+
+results for iteration: 100---------------------------
+
+Train Results for SA:0.15: 
+Correctly classified 653.0 instances.
+Incorrectly classified 557.0 instances.
+Percent correctly classified: 53.967%
+Training time: 0.289 seconds
+Testing time: 0.013 seconds
+
+Test Results for SA: 0.15: 
+Correctly classified 289.0 instances.
+Incorrectly classified 229.0 instances.
+Percent correctly classified: 55.792%
+Training time: 0.289 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.25: 
+Correctly classified 599.0 instances.
+Incorrectly classified 611.0 instances.
+Percent correctly classified: 49.504%
+Training time: 0.286 seconds
+Testing time: 0.013 seconds
+
+Test Results for SA: 0.25: 
+Correctly classified 264.0 instances.
+Incorrectly classified 254.0 instances.
+Percent correctly classified: 50.965%
+Training time: 0.286 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.35: 
+Correctly classified 493.0 instances.
+Incorrectly classified 717.0 instances.
+Percent correctly classified: 40.744%
+Training time: 0.287 seconds
+Testing time: 0.014 seconds
+
+Test Results for SA: 0.35: 
+Correctly classified 216.0 instances.
+Incorrectly classified 302.0 instances.
+Percent correctly classified: 41.699%
+Training time: 0.287 seconds
+Testing time: 0.008 seconds
+
+Train Results for SA:0.45: 
+Correctly classified 501.0 instances.
+Incorrectly classified 709.0 instances.
+Percent correctly classified: 41.405%
+Training time: 0.300 seconds
+Testing time: 0.013 seconds
+
+Test Results for SA: 0.45: 
+Correctly classified 226.0 instances.
+Incorrectly classified 292.0 instances.
+Percent correctly classified: 43.629%
+Training time: 0.300 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.55: 
+Correctly classified 443.0 instances.
+Incorrectly classified 767.0 instances.
+Percent correctly classified: 36.612%
+Training time: 0.289 seconds
+Testing time: 0.013 seconds
+
+Test Results for SA: 0.55: 
+Correctly classified 175.0 instances.
+Incorrectly classified 343.0 instances.
+Percent correctly classified: 33.784%
+Training time: 0.289 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.65: 
+Correctly classified 667.0 instances.
+Incorrectly classified 543.0 instances.
+Percent correctly classified: 55.124%
+Training time: 0.286 seconds
+Testing time: 0.013 seconds
+
+Test Results for SA: 0.65: 
+Correctly classified 283.0 instances.
+Incorrectly classified 235.0 instances.
+Percent correctly classified: 54.633%
+Training time: 0.286 seconds
+Testing time: 0.008 seconds
+
+Train Results for SA:0.75: 
+Correctly classified 471.0 instances.
+Incorrectly classified 739.0 instances.
+Percent correctly classified: 38.926%
+Training time: 0.285 seconds
+Testing time: 0.013 seconds
+
+Test Results for SA: 0.75: 
+Correctly classified 198.0 instances.
+Incorrectly classified 320.0 instances.
+Percent correctly classified: 38.224%
+Training time: 0.285 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.85: 
+Correctly classified 435.0 instances.
+Incorrectly classified 775.0 instances.
+Percent correctly classified: 35.950%
+Training time: 0.284 seconds
+Testing time: 0.014 seconds
+
+Test Results for SA: 0.85: 
+Correctly classified 191.0 instances.
+Incorrectly classified 327.0 instances.
+Percent correctly classified: 36.873%
+Training time: 0.284 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.95: 
+Correctly classified 96.0 instances.
+Incorrectly classified 1114.0 instances.
+Percent correctly classified: 7.934%
+Training time: 0.286 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.95: 
+Correctly classified 39.0 instances.
+Incorrectly classified 479.0 instances.
+Percent correctly classified: 7.529%
+Training time: 0.286 seconds
+Testing time: 0.004 seconds
+
+results for iteration: 500---------------------------
+
+Train Results for SA:0.15: 
+Correctly classified 950.0 instances.
+Incorrectly classified 260.0 instances.
+Percent correctly classified: 78.512%
+Training time: 1.419 seconds
+Testing time: 0.013 seconds
+
+Test Results for SA: 0.15: 
+Correctly classified 422.0 instances.
+Incorrectly classified 96.0 instances.
+Percent correctly classified: 81.467%
+Training time: 1.419 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.25: 
+Correctly classified 979.0 instances.
+Incorrectly classified 231.0 instances.
+Percent correctly classified: 80.909%
+Training time: 1.390 seconds
+Testing time: 0.011 seconds
+
+Test Results for SA: 0.25: 
+Correctly classified 425.0 instances.
+Incorrectly classified 93.0 instances.
+Percent correctly classified: 82.046%
+Training time: 1.390 seconds
+Testing time: 0.004 seconds
+
+Train Results for SA:0.35: 
+Correctly classified 967.0 instances.
+Incorrectly classified 243.0 instances.
+Percent correctly classified: 79.917%
+Training time: 1.389 seconds
+Testing time: 0.018 seconds
+
+Test Results for SA: 0.35: 
+Correctly classified 421.0 instances.
+Incorrectly classified 97.0 instances.
+Percent correctly classified: 81.274%
+Training time: 1.389 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.45: 
+Correctly classified 993.0 instances.
+Incorrectly classified 217.0 instances.
+Percent correctly classified: 82.066%
+Training time: 1.392 seconds
+Testing time: 0.011 seconds
+
+Test Results for SA: 0.45: 
+Correctly classified 438.0 instances.
+Incorrectly classified 80.0 instances.
+Percent correctly classified: 84.556%
+Training time: 1.392 seconds
+Testing time: 0.004 seconds
+
+Train Results for SA:0.55: 
+Correctly classified 996.0 instances.
+Incorrectly classified 214.0 instances.
+Percent correctly classified: 82.314%
+Training time: 1.388 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.55: 
+Correctly classified 426.0 instances.
+Incorrectly classified 92.0 instances.
+Percent correctly classified: 82.239%
+Training time: 1.388 seconds
+Testing time: 0.004 seconds
+
+Train Results for SA:0.65: 
+Correctly classified 953.0 instances.
+Incorrectly classified 257.0 instances.
+Percent correctly classified: 78.760%
+Training time: 1.387 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.65: 
+Correctly classified 420.0 instances.
+Incorrectly classified 98.0 instances.
+Percent correctly classified: 81.081%
+Training time: 1.387 seconds
+Testing time: 0.004 seconds
+
+Train Results for SA:0.75: 
+Correctly classified 969.0 instances.
+Incorrectly classified 241.0 instances.
+Percent correctly classified: 80.083%
+Training time: 1.390 seconds
+Testing time: 0.009 seconds
+
+Test Results for SA: 0.75: 
+Correctly classified 428.0 instances.
+Incorrectly classified 90.0 instances.
+Percent correctly classified: 82.625%
+Training time: 1.390 seconds
+Testing time: 0.004 seconds
+
+Train Results for SA:0.85: 
+Correctly classified 751.0 instances.
+Incorrectly classified 459.0 instances.
+Percent correctly classified: 62.066%
+Training time: 1.399 seconds
+Testing time: 0.009 seconds
+
+Test Results for SA: 0.85: 
+Correctly classified 308.0 instances.
+Incorrectly classified 210.0 instances.
+Percent correctly classified: 59.459%
+Training time: 1.399 seconds
+Testing time: 0.004 seconds
+
+Train Results for SA:0.95: 
+Correctly classified 179.0 instances.
+Incorrectly classified 1031.0 instances.
+Percent correctly classified: 14.793%
+Training time: 1.396 seconds
+Testing time: 0.009 seconds
+
+Test Results for SA: 0.95: 
+Correctly classified 70.0 instances.
+Incorrectly classified 448.0 instances.
+Percent correctly classified: 13.514%
+Training time: 1.396 seconds
+Testing time: 0.005 seconds
+
+results for iteration: 1000---------------------------
+
+Train Results for SA:0.15: 
+Correctly classified 1034.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 85.455%
+Training time: 2.786 seconds
+Testing time: 0.016 seconds
+
+Test Results for SA: 0.15: 
+Correctly classified 445.0 instances.
+Incorrectly classified 73.0 instances.
+Percent correctly classified: 85.907%
+Training time: 2.786 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.25: 
+Correctly classified 1032.0 instances.
+Incorrectly classified 178.0 instances.
+Percent correctly classified: 85.289%
+Training time: 2.778 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.25: 
+Correctly classified 441.0 instances.
+Incorrectly classified 77.0 instances.
+Percent correctly classified: 85.135%
+Training time: 2.778 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.35: 
+Correctly classified 1045.0 instances.
+Incorrectly classified 165.0 instances.
+Percent correctly classified: 86.364%
+Training time: 2.766 seconds
+Testing time: 0.018 seconds
+
+Test Results for SA: 0.35: 
+Correctly classified 449.0 instances.
+Incorrectly classified 69.0 instances.
+Percent correctly classified: 86.680%
+Training time: 2.766 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.45: 
+Correctly classified 1004.0 instances.
+Incorrectly classified 206.0 instances.
+Percent correctly classified: 82.975%
+Training time: 2.782 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.45: 
+Correctly classified 434.0 instances.
+Incorrectly classified 84.0 instances.
+Percent correctly classified: 83.784%
+Training time: 2.782 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.55: 
+Correctly classified 1026.0 instances.
+Incorrectly classified 184.0 instances.
+Percent correctly classified: 84.793%
+Training time: 2.777 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.55: 
+Correctly classified 442.0 instances.
+Incorrectly classified 76.0 instances.
+Percent correctly classified: 85.328%
+Training time: 2.777 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.65: 
+Correctly classified 1026.0 instances.
+Incorrectly classified 184.0 instances.
+Percent correctly classified: 84.793%
+Training time: 2.780 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.65: 
+Correctly classified 436.0 instances.
+Incorrectly classified 82.0 instances.
+Percent correctly classified: 84.170%
+Training time: 2.780 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.75: 
+Correctly classified 1026.0 instances.
+Incorrectly classified 184.0 instances.
+Percent correctly classified: 84.793%
+Training time: 2.781 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.75: 
+Correctly classified 439.0 instances.
+Incorrectly classified 79.0 instances.
+Percent correctly classified: 84.749%
+Training time: 2.781 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.85: 
+Correctly classified 998.0 instances.
+Incorrectly classified 212.0 instances.
+Percent correctly classified: 82.479%
+Training time: 2.775 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.85: 
+Correctly classified 436.0 instances.
+Incorrectly classified 82.0 instances.
+Percent correctly classified: 84.170%
+Training time: 2.775 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.95: 
+Correctly classified 881.0 instances.
+Incorrectly classified 329.0 instances.
+Percent correctly classified: 72.810%
+Training time: 2.775 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.95: 
+Correctly classified 378.0 instances.
+Incorrectly classified 140.0 instances.
+Percent correctly classified: 72.973%
+Training time: 2.775 seconds
+Testing time: 0.005 seconds
+
+results for iteration: 2500---------------------------
+
+Train Results for SA:0.15: 
+Correctly classified 1134.0 instances.
+Incorrectly classified 76.0 instances.
+Percent correctly classified: 93.719%
+Training time: 6.944 seconds
+Testing time: 0.013 seconds
+
+Test Results for SA: 0.15: 
+Correctly classified 484.0 instances.
+Incorrectly classified 34.0 instances.
+Percent correctly classified: 93.436%
+Training time: 6.944 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.25: 
+Correctly classified 1072.0 instances.
+Incorrectly classified 138.0 instances.
+Percent correctly classified: 88.595%
+Training time: 6.938 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.25: 
+Correctly classified 457.0 instances.
+Incorrectly classified 61.0 instances.
+Percent correctly classified: 88.224%
+Training time: 6.938 seconds
+Testing time: 0.004 seconds
+
+Train Results for SA:0.35: 
+Correctly classified 1114.0 instances.
+Incorrectly classified 96.0 instances.
+Percent correctly classified: 92.066%
+Training time: 6.952 seconds
+Testing time: 0.012 seconds
+
+Test Results for SA: 0.35: 
+Correctly classified 477.0 instances.
+Incorrectly classified 41.0 instances.
+Percent correctly classified: 92.085%
+Training time: 6.952 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.45: 
+Correctly classified 1141.0 instances.
+Incorrectly classified 69.0 instances.
+Percent correctly classified: 94.298%
+Training time: 7.039 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.45: 
+Correctly classified 484.0 instances.
+Incorrectly classified 34.0 instances.
+Percent correctly classified: 93.436%
+Training time: 7.039 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.55: 
+Correctly classified 1098.0 instances.
+Incorrectly classified 112.0 instances.
+Percent correctly classified: 90.744%
+Training time: 6.949 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.55: 
+Correctly classified 466.0 instances.
+Incorrectly classified 52.0 instances.
+Percent correctly classified: 89.961%
+Training time: 6.949 seconds
+Testing time: 0.004 seconds
+
+Train Results for SA:0.65: 
+Correctly classified 1107.0 instances.
+Incorrectly classified 103.0 instances.
+Percent correctly classified: 91.488%
+Training time: 6.968 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.65: 
+Correctly classified 475.0 instances.
+Incorrectly classified 43.0 instances.
+Percent correctly classified: 91.699%
+Training time: 6.968 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.75: 
+Correctly classified 1087.0 instances.
+Incorrectly classified 123.0 instances.
+Percent correctly classified: 89.835%
+Training time: 6.923 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.75: 
+Correctly classified 453.0 instances.
+Incorrectly classified 65.0 instances.
+Percent correctly classified: 87.452%
+Training time: 6.923 seconds
+Testing time: 0.004 seconds
+
+Train Results for SA:0.85: 
+Correctly classified 1089.0 instances.
+Incorrectly classified 121.0 instances.
+Percent correctly classified: 90.000%
+Training time: 6.930 seconds
+Testing time: 0.011 seconds
+
+Test Results for SA: 0.85: 
+Correctly classified 460.0 instances.
+Incorrectly classified 58.0 instances.
+Percent correctly classified: 88.803%
+Training time: 6.930 seconds
+Testing time: 0.009 seconds
+
+Train Results for SA:0.95: 
+Correctly classified 1091.0 instances.
+Incorrectly classified 119.0 instances.
+Percent correctly classified: 90.165%
+Training time: 6.981 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.95: 
+Correctly classified 470.0 instances.
+Incorrectly classified 48.0 instances.
+Percent correctly classified: 90.734%
+Training time: 6.981 seconds
+Testing time: 0.004 seconds
+
+results for iteration: 5000---------------------------
+
+Train Results for SA:0.15: 
+Correctly classified 1134.0 instances.
+Incorrectly classified 76.0 instances.
+Percent correctly classified: 93.719%
+Training time: 13.950 seconds
+Testing time: 0.016 seconds
+
+Test Results for SA: 0.15: 
+Correctly classified 477.0 instances.
+Incorrectly classified 41.0 instances.
+Percent correctly classified: 92.085%
+Training time: 13.950 seconds
+Testing time: 0.006 seconds
+
+Train Results for SA:0.25: 
+Correctly classified 1152.0 instances.
+Incorrectly classified 58.0 instances.
+Percent correctly classified: 95.207%
+Training time: 13.959 seconds
+Testing time: 0.011 seconds
+
+Test Results for SA: 0.25: 
+Correctly classified 488.0 instances.
+Incorrectly classified 30.0 instances.
+Percent correctly classified: 94.208%
+Training time: 13.959 seconds
+Testing time: 0.004 seconds
+
+Train Results for SA:0.35: 
+Correctly classified 1158.0 instances.
+Incorrectly classified 52.0 instances.
+Percent correctly classified: 95.702%
+Training time: 14.003 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.35: 
+Correctly classified 500.0 instances.
+Incorrectly classified 18.0 instances.
+Percent correctly classified: 96.525%
+Training time: 14.003 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.45: 
+Correctly classified 1156.0 instances.
+Incorrectly classified 54.0 instances.
+Percent correctly classified: 95.537%
+Training time: 13.839 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.45: 
+Correctly classified 492.0 instances.
+Incorrectly classified 26.0 instances.
+Percent correctly classified: 94.981%
+Training time: 13.839 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.55: 
+Correctly classified 1135.0 instances.
+Incorrectly classified 75.0 instances.
+Percent correctly classified: 93.802%
+Training time: 13.862 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.55: 
+Correctly classified 478.0 instances.
+Incorrectly classified 40.0 instances.
+Percent correctly classified: 92.278%
+Training time: 13.862 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.65: 
+Correctly classified 1168.0 instances.
+Incorrectly classified 42.0 instances.
+Percent correctly classified: 96.529%
+Training time: 13.861 seconds
+Testing time: 0.011 seconds
+
+Test Results for SA: 0.65: 
+Correctly classified 490.0 instances.
+Incorrectly classified 28.0 instances.
+Percent correctly classified: 94.595%
+Training time: 13.861 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.75: 
+Correctly classified 1151.0 instances.
+Incorrectly classified 59.0 instances.
+Percent correctly classified: 95.124%
+Training time: 13.855 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.75: 
+Correctly classified 495.0 instances.
+Incorrectly classified 23.0 instances.
+Percent correctly classified: 95.560%
+Training time: 13.855 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.85: 
+Correctly classified 1168.0 instances.
+Incorrectly classified 42.0 instances.
+Percent correctly classified: 96.529%
+Training time: 13.908 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.85: 
+Correctly classified 497.0 instances.
+Incorrectly classified 21.0 instances.
+Percent correctly classified: 95.946%
+Training time: 13.908 seconds
+Testing time: 0.005 seconds
+
+Train Results for SA:0.95: 
+Correctly classified 1176.0 instances.
+Incorrectly classified 34.0 instances.
+Percent correctly classified: 97.190%
+Training time: 13.986 seconds
+Testing time: 0.010 seconds
+
+Test Results for SA: 0.95: 
+Correctly classified 503.0 instances.
+Incorrectly classified 15.0 instances.
+Percent correctly classified: 97.104%
+Training time: 13.986 seconds
+Testing time: 0.006 seconds

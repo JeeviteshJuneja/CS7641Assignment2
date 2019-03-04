@@ -1,0 +1,48 @@
+##############
+this is iteration 10
+rhc average is 0.041815431561288564, time average is 0.0014649326999999998
+sa average is 0.03985029201118719, time average is 7.999979999999999E-5
+ga average is 0.09171982538105623, time average is 0.010795862
+mimic average is 0.049143286456821915, time average is 0.26062744
+##############
+this is iteration 100
+rhc average is 0.05791812317553202, time average is 7.70666E-5
+sa average is 0.03885239641431719, time average is 7.4889E-5
+ga average is 0.1555208399275865, time average is 0.0443821136
+mimic average is 0.06874783368781148, time average is 1.5459457576000002
+##############
+this is iteration 500
+rhc average is 0.07785282047263227, time average is 2.447553E-4
+sa average is 0.03868756063173378, time average is 2.6519980000000004E-4
+ga average is 0.15470313233319333, time average is 0.1850016068
+mimic average is 0.0891271546528061, time average is 7.5173602145
+##############
+this is iteration 1000
+rhc average is 0.08847820623533123, time average is 4.480886E-4
+sa average is 0.07137630263385836, time average is 7.404439E-4
+ga average is 0.1479666911992519, time average is 0.39928551160000003
+mimic average is 0.09393056125792296, time average is 17.2833226741
+##############
+this is iteration 2500
+rhc average is 0.09999603301507838, time average is 0.0011636439
+sa average is 0.10153017096115222, time average is 0.0018842216000000001
+ga average is 0.15390466453593374, time average is 0.9278875876999999
+mimic average is 0.10188020685021741, time average is 40.370732413099994
+##############
+this is iteration 5000
+rhc average is 0.1192757599136129, time average is 0.0022486211999999998
+sa average is 0.11020608486628172, time average is 0.0044434201
+ga average is 0.15265581574155934, time average is 2.0367441617
+mimic average is 0.11075557284242026, time average is 83.86080939520001
+##############
+ga average is 0.09538104759120035,10,5,2, time average is 0.0686394805
+##############
+ga average is 0.22622482952341363,20,10,5, time average is 0.20985301769999998
+##############
+ga average is 0.36796629450981166,50,25,10, time average is 0.5621977057
+##############
+ga average is 0.5201681425048666,100,50,10, time average is 1.229781009
+##############
+ga average is 0.6660238152604101,200,150,20, time average is 3.2425172698000004
+##############
+ga average is 0.816977929197636,500,350,50, time average is 8.0763954324
